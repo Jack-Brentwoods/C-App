@@ -1,0 +1,4 @@
+E:\Sciencetific Research\C# app\SimpleWinformsApp\obj\Debug\net9.0-windows\SimpleWinformsApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sciencetific Research\C# app\SimpleWinformsApp\obj\Debug\net9.0-windows\SimpleWinformsApp.AssemblyInfoInputs.cache
+E:\Sciencetific Research\C# app\SimpleWinformsApp\obj\Debug\net9.0-windows\SimpleWinformsApp.AssemblyInfo.cs
+E:\Sciencetific Research\C# app\SimpleWinformsApp\obj\Debug\net9.0-windows\SimpleWinformsApp.csproj.CoreCompileInputs.cache
